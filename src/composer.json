@@ -1,0 +1,13 @@
+{
+    "require": {
+        "eb/mysql": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "": ""
+        },
+        "files": [
+            "func_all.php"
+        ]
+    }
+}
